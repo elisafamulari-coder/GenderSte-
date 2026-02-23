@@ -1,6 +1,6 @@
-# 📂 Repository Structure – GenderSte Survey Project
+# Repository Structure – GenderSte Survey Project
 
-## 📦 Materiale per la creazione della survey
+## Materiale per la creazione della survey
 
 - **Zip `GenderSte_Survey`**  
   Contiene tutto il materiale utilizzato per la creazione della survey su PsyToolkit, tra cui:
@@ -9,17 +9,14 @@
   - script Python per la composizione automatica della survey  
   - output finale pronto per PsyToolkit  
 ---
-## 📊 `AnalisiGenderSte_Persone`
+## `AnalisiGenderSte_Persone`
 
 - **Zip `PsyToolkitData_GenderSteSurvey_2026_02_11_08_55`**  
   Contiene i risultati del questionario svolto su PsyToolkit.
 - **`Analisi-Gender_Ste-Survey`**
   Contiene un pdf con l'analisi dei dati raccolti nel questionario rivolto alle persone
-
-  ⚠️ **Nota sulla privacy:**  
-  Prima della condivisione pubblica è necessario rimuovere eventuali dati identificativi (es. indirizzi email) per garantire la privacy dei partecipanti.
 ---
-## 📈 `AnalisiChatBot`
+## `AnalisiChatBot`
 
 - **`gender_survey.pipeline.py`**
   Contiene lo script python utilizzato per interrogare i vari chatbot
