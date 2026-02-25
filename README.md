@@ -20,7 +20,7 @@
 
 - **`gender_survey.pipeline.py`**
   Contiene lo script python utilizzato per interrogare i vari chatbot
-  - **`deepseek-chat`**  
+- **`deepseek-chat`**  
   Contiene un pdf con l'analisi relativa ai dati raccolti nelle chiamate a deepseek e nella cartella 'data' i file delle varie run fatte con deepseek
 - **`gemini-2.5-flash`**  
   Contiene un pdf con l'analisi relativa ai dati raccolti nelle chiamate a gemini e nella cartella 'data' i file delle varie run fatte con gemini
