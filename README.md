@@ -1,7 +1,9 @@
 # Repository Structure – GenderSte Survey Project
 
 ## Materiale per la creazione della survey
-
+**Articolo**
+L'articolo, un dataset italiano per l'analisi degli stereotipi di genere nei testi mediante Large Language Model, contiene una spiegazione dettagliata di quanto svolto nell'analisi e il background teorico necessario per la compresione dell'analisi.
+---
 - **Zip `GenderSte_Survey`**  
   Contiene tutto il materiale utilizzato per la creazione della survey su PsyToolkit, tra cui:
   - file di testo delle sub-survey  
