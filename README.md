@@ -1,6 +1,5 @@
 # Repository Structure – GenderSte Survey Project
-**Articolo**
-L'articolo, un dataset italiano per l'analisi degli stereotipi di genere nei testi mediante Large Language Model, contiene una spiegazione dettagliata di quanto svolto nell'analisi e il background teorico necessario per la compresione dell'analisi.
+L'articolo in formato pdf, "Un dataset italiano per l'analisi degli stereotipi di genere nei testi mediante Large Language Model", contiene una spiegazione dettagliata di quanto svolto nell'analisi e il background teorico necessario per la compresione dell'analisi.
 
 ## Materiale per la creazione della survey
 - **Zip `GenderSte_Survey`**  
